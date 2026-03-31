@@ -1,0 +1,5 @@
+{
+  "name": "AI Anki Master",
+  "description": "Automated Anki card generation workflow powered by Gemini AI and AnkiConnect.",
+  "requestFramePermissions": []
+}
